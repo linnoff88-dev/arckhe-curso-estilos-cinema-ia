@@ -1,0 +1,44 @@
+﻿# Estilos e Cinema: Seedance + Higgsfield v6.2
+
+<div align="center">
+  <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
+  <p><strong>Arckhé AI</strong></p>
+</div>
+
+
+Curso gratuito com 9 aulas em 3 mÃ³dulos. Estilo OSWork v6.2. Reconstruir: `python3 montar.py`. Fontes editoriais em `context/`.
+
+As imagens sÃ£o ilustraÃ§Ãµes Codex, nÃ£o resultados de Seedance ou Cinema Studio. O aluno deve executar e revisar as prÃ¡ticas antes de declarar a produÃ§Ã£o concluÃ­da. Estimativa: 4â€“6 horas com produÃ§Ã£o, alÃ©m das filas.
+
+## English / EspaÃ±ol
+
+[English](https://inematds.github.io/curso-estilos-cinema-ia/en/) Â· [EspaÃ±ol](https://inematds.github.io/curso-estilos-cinema-ia/es/)
+
+Textos traduzidos com GPT-6 Luna por subagentes nativos da assinatura Codex, sem API externa. IlustraÃ§Ãµes originais compartilhadas; progresso e anotaÃ§Ãµes separados por idioma.
+
+ApÃ³s montar o portuguÃªs, reaplique os catÃ¡logos salvos:
+
+```sh
+python3 scripts/i18n_local.py build .
+python3 scripts/verify_i18n.py .
+node scripts/check_i18n_browser.cjs . /tmp/curso-i18n-checks
+```
+
+Requer Python/BeautifulSoup e os pacotes locais Babel/Playwright indicados nos scripts. A montagem nÃ£o chama modelos nem redes. MudanÃ§as na fonte PT exigem revisar os catÃ¡logos `i18n/`. O motor oficial `assets/curso.js` Ã© preservado; a proteÃ§Ã£o de importaÃ§Ã£o Ã© gerada em `assets/curso-i18n.js` e nas ediÃ§Ãµes traduzidas.
+
+EvidÃªncias em `context/validacao-i18n.md`. RevisÃµes por agentes sÃ£o simuladas, nÃ£o testes com alunos reais.
+
+<!-- inema-backlink:v1 -->
+## Mais no INEMA.CLUB
+
+- [Ficha completa deste curso](https://www.inema.club/cursos/293-estilos-e-cinema-seedance-higgsfield-v6-2/)
+- [Guia: como aprender inteligÃªncia artificial](https://www.inema.club/aprender-inteligencia-artificial/)
+- [Todos os cursos](https://www.inema.club/cursos/)
+<!-- /inema-backlink:v1 -->
+
+---
+
+<div align="center">
+  <img src="capa/logo.svg" alt="Arckhé AI" height="32" />
+  <p><strong>Arckhé AI</strong></p>
+</div>
