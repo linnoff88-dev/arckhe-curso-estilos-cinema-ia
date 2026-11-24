@@ -1,488 +1,488 @@
 [
   {
-    "titulo": "Monte um painel de referências com função",
-    "entrega": "organizar até nove referências sem misturar seus papéis",
-    "dor": "Uma colagem bonita pode orientar mal uma cena. Cada referência precisa dizer o que fornece: objeto, ambiente, luz ou linguagem visual.",
-    "antes": "Enviar nove imagens aleatórias porque o campo aceita muitos arquivos.",
-    "depois": "Separar objeto, ambiente, luz e estilo, enviando só o que tem função.",
+    "titulo": "Monte um painel de referÃªncias com funÃ§Ã£o",
+    "entrega": "organizar atÃ© nove referÃªncias sem misturar seus papÃ©is",
+    "dor": "Uma colagem bonita pode orientar mal uma cena. Cada referÃªncia precisa dizer o que fornece: objeto, ambiente, luz ou linguagem visual.",
+    "antes": "Enviar nove imagens aleatÃ³rias porque o campo aceita muitos arquivos.",
+    "depois": "Separar objeto, ambiente, luz e estilo, enviando sÃ³ o que tem funÃ§Ã£o.",
     "campos": [
-      "Caso: lanterna fictícia Vagalume",
-      "Papéis: objeto, ambiente, luz e estilo",
-      "Seleção: poucos arquivos com função clara"
+      "Caso: lanterna fictÃ­cia Vagalume",
+      "PapÃ©is: objeto, ambiente, luz e estilo",
+      "SeleÃ§Ã£o: poucos arquivos com funÃ§Ã£o clara"
     ],
     "passos": [
-      "Separe até nove imagens próprias ou autorizadas. Use fotos suas, desenhos ou estudos visuais já criados.",
-      "Organize numa página de apresentação ou documento e escreva a função de cada referência. Uma lista com miniaturas também serve.",
-      "Escolha os arquivos necessários ao primeiro teste. Anote a versão disponível e o custo previsto, sem gerar ainda."
+      "Separe atÃ© nove imagens prÃ³prias ou autorizadas. Use fotos suas, desenhos ou estudos visuais jÃ¡ criados.",
+      "Organize numa pÃ¡gina de apresentaÃ§Ã£o ou documento e escreva a funÃ§Ã£o de cada referÃªncia. Uma lista com miniaturas tambÃ©m serve.",
+      "Escolha os arquivos necessÃ¡rios ao primeiro teste. Anote a versÃ£o disponÃ­vel e o custo previsto, sem gerar ainda."
     ],
-    "molde": "Referência 1: <arquivo> | função: objeto\nReferência 2: <arquivo> | função: ambiente\nReferência 3: <arquivo> | função: estilo\nOutras: <somente se necessárias>\nVersão e modo: <conta>\nCusto e teto: <tela e limite>",
-    "pronto": "um painel ou lista de referências identifica a função de cada arquivo selecionado",
-    "confira": "Quantidade permitida não comprova qualidade; cada arquivo precisa resolver uma decisão do projeto.",
-    "calma": "Sem editor de colagem, use uma lista no documento com nome do arquivo e função. A organização importa mais que o acabamento.",
-    "q": "Duas referências mostram lanternas com formas diferentes. O que esclarecer?",
+    "molde": "ReferÃªncia 1: <arquivo> | funÃ§Ã£o: objeto\nReferÃªncia 2: <arquivo> | funÃ§Ã£o: ambiente\nReferÃªncia 3: <arquivo> | funÃ§Ã£o: estilo\nOutras: <somente se necessÃ¡rias>\nVersÃ£o e modo: <conta>\nCusto e teto: <tela e limite>",
+    "pronto": "um painel ou lista de referÃªncias identifica a funÃ§Ã£o de cada arquivo selecionado",
+    "confira": "Quantidade permitida nÃ£o comprova qualidade; cada arquivo precisa resolver uma decisÃ£o do projeto.",
+    "calma": "Sem editor de colagem, use uma lista no documento com nome do arquivo e funÃ§Ã£o. A organizaÃ§Ã£o importa mais que o acabamento.",
+    "q": "Duas referÃªncias mostram lanternas com formas diferentes. O que esclarecer?",
     "opcoes": [
-      "Qual arquivo ocupa mais espaço na pasta",
-      "Qual fotografia foi aberta por último",
+      "Qual arquivo ocupa mais espaÃ§o na pasta",
+      "Qual fotografia foi aberta por Ãºltimo",
       "Qual delas define o objeto do projeto"
     ],
     "correta": 2,
-    "observacao": "O painel reúne estudos de objeto, ambiente e luz. As lanternas ilustradas podem variar; escolha uma referência principal antes de produzir.",
-    "ex1": "Lara, diretora de arte de 36 anos, explica a função de cada imagem.",
-    "ex2": "Roberto, anfitrião de pousada de 58 anos, escolhe uma foto própria quando precisa mostrar seu equipamento real.",
-    "tarefa": "Monte um painel de referências com função",
+    "observacao": "O painel reÃºne estudos de objeto, ambiente e luz. As lanternas ilustradas podem variar; escolha uma referÃªncia principal antes de produzir.",
+    "ex1": "Lara, diretora de arte de 36 anos, explica a funÃ§Ã£o de cada imagem.",
+    "ex2": "Roberto, anfitriÃ£o de pousada de 58 anos, escolhe uma foto prÃ³pria quando precisa mostrar seu equipamento real.",
+    "tarefa": "Monte um painel de referÃªncias com funÃ§Ã£o",
     "resumo": [
-      "Caso: lanterna fictícia Vagalume",
-      "Papéis: objeto, ambiente, luz e estilo",
-      "Seleção: poucos arquivos com função clara"
+      "Caso: lanterna fictÃ­cia Vagalume",
+      "PapÃ©is: objeto, ambiente, luz e estilo",
+      "SeleÃ§Ã£o: poucos arquivos com funÃ§Ã£o clara"
     ],
-    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geração ficam fora desse tempo.",
+    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geraÃ§Ã£o ficam fora desse tempo.",
     "cartoes": [
       [
-        "Duas referências mostram lanternas com formas diferentes. O que esclarecer?",
+        "Duas referÃªncias mostram lanternas com formas diferentes. O que esclarecer?",
         "Qual delas define o objeto do projeto"
       ],
       [
         "O que conferir antes de seguir?",
-        "Quantidade permitida não comprova qualidade; cada arquivo precisa resolver uma decisão do projeto."
+        "Quantidade permitida nÃ£o comprova qualidade; cada arquivo precisa resolver uma decisÃ£o do projeto."
       ],
       [
-        "Qual evidência encerra esta prática?",
-        "um painel ou lista de referências identifica a função de cada arquivo selecionado"
+        "Qual evidÃªncia encerra esta prÃ¡tica?",
+        "um painel ou lista de referÃªncias identifica a funÃ§Ã£o de cada arquivo selecionado"
       ]
     ],
-    "aviso_tempo": "Leitura: cerca de 15 minutos. Prática: 10 minutos ativos. Filas, produção de referências e correções exigem tempo adicional.",
-    "complemento": "Continuação de produção e documentação"
+    "aviso_tempo": "Leitura: cerca de 15 minutos. PrÃ¡tica: 10 minutos ativos. Filas, produÃ§Ã£o de referÃªncias e correÃ§Ãµes exigem tempo adicional.",
+    "complemento": "ContinuaÃ§Ã£o de produÃ§Ã£o e documentaÃ§Ã£o"
   },
   {
-    "titulo": "Descreva dois estilos por características observáveis",
+    "titulo": "Descreva dois estilos por caracterÃ­sticas observÃ¡veis",
     "entrega": "escrever duas notas de estilo e preparar imagens de partida",
-    "dor": "O nome de um estilo sozinho pode esconder decisões importantes. Defina forma, textura, cor e luz para conseguir revisar o resultado.",
+    "dor": "O nome de um estilo sozinho pode esconder decisÃµes importantes. Defina forma, textura, cor e luz para conseguir revisar o resultado.",
     "antes": "Pedir qualquer estilo bonito e aceitar uma lanterna diferente.",
-    "depois": "Definir duas linguagens e preservar alça, corpo e base do mesmo objeto.",
+    "depois": "Definir duas linguagens e preservar alÃ§a, corpo e base do mesmo objeto.",
     "campos": [
       "Estilo A: 2D, contorno, cores chapadas",
-      "Estilo B: papel em camadas, bordas táteis",
-      "Fixos: objeto, história e paleta principal"
+      "Estilo B: papel em camadas, bordas tÃ¡teis",
+      "Fixos: objeto, histÃ³ria e paleta principal"
     ],
     "passos": [
-      "Escreva duas notas de estilo com forma, textura, paleta e luz. Use as duas linguagens propostas ou escolha outras observáveis.",
-      "Separe a referência principal da lanterna ou de um objeto seu. Liste três características que devem permanecer.",
-      "Prepare os pedidos de transformação ou desenhe os estudos. Registre quais imagens já estão prontas e quais precisam ser produzidas e revistas."
+      "Escreva duas notas de estilo com forma, textura, paleta e luz. Use as duas linguagens propostas ou escolha outras observÃ¡veis.",
+      "Separe a referÃªncia principal da lanterna ou de um objeto seu. Liste trÃªs caracterÃ­sticas que devem permanecer.",
+      "Prepare os pedidos de transformaÃ§Ã£o ou desenhe os estudos. Registre quais imagens jÃ¡ estÃ£o prontas e quais precisam ser produzidas e revistas."
     ],
-    "molde": "A: animação 2D; contorno limpo; amarelo e verde-azulado; luz quente.\nB: maquete de papel; camadas visíveis; mesma paleta; luz quente.\nPreservar: alça preta, corpo amarelo e base.\nReferência: <arquivo>\nImagem A / B: <arquivo ou pendente>",
-    "pronto": "duas notas de estilo e três características fixas estão registradas com a situação das imagens",
-    "confira": "Revisar o estilo inclui conferir se o objeto continua reconhecível, não apenas se a textura ficou bonita.",
-    "calma": "Sem acesso ao editor, desenhe estudos simples para planejar. A animação exige depois uma imagem utilizável no modo escolhido.",
-    "q": "A versão de papel perdeu a alça. Qual decisão atende ao projeto?",
+    "molde": "A: animaÃ§Ã£o 2D; contorno limpo; amarelo e verde-azulado; luz quente.\nB: maquete de papel; camadas visÃ­veis; mesma paleta; luz quente.\nPreservar: alÃ§a preta, corpo amarelo e base.\nReferÃªncia: <arquivo>\nImagem A / B: <arquivo ou pendente>",
+    "pronto": "duas notas de estilo e trÃªs caracterÃ­sticas fixas estÃ£o registradas com a situaÃ§Ã£o das imagens",
+    "confira": "Revisar o estilo inclui conferir se o objeto continua reconhecÃ­vel, nÃ£o apenas se a textura ficou bonita.",
+    "calma": "Sem acesso ao editor, desenhe estudos simples para planejar. A animaÃ§Ã£o exige depois uma imagem utilizÃ¡vel no modo escolhido.",
+    "q": "A versÃ£o de papel perdeu a alÃ§a. Qual decisÃ£o atende ao projeto?",
     "opcoes": [
       "Mudar o roteiro para nunca mostrar o objeto",
-      "Aceitar só porque a textura parece bonita",
-      "Corrigir a alça antes de animar a imagem"
+      "Aceitar sÃ³ porque a textura parece bonita",
+      "Corrigir a alÃ§a antes de animar a imagem"
     ],
     "correta": 2,
-    "observacao": "Os cinco painéis ilustram linguagens visuais. Não são comparação controlada entre modelos nem resultados de vídeo.",
+    "observacao": "Os cinco painÃ©is ilustram linguagens visuais. NÃ£o sÃ£o comparaÃ§Ã£o controlada entre modelos nem resultados de vÃ­deo.",
     "ex1": "Lara descreve a textura em vez de depender somente do nome de um estilo.",
-    "ex2": "Roberto confere se a lanterna continua tendo a alça que aparece na referência.",
-    "tarefa": "Descreva dois estilos por características observáveis",
+    "ex2": "Roberto confere se a lanterna continua tendo a alÃ§a que aparece na referÃªncia.",
+    "tarefa": "Descreva dois estilos por caracterÃ­sticas observÃ¡veis",
     "resumo": [
       "Estilo A: 2D, contorno, cores chapadas",
-      "Estilo B: papel em camadas, bordas táteis",
-      "Fixos: objeto, história e paleta principal"
+      "Estilo B: papel em camadas, bordas tÃ¡teis",
+      "Fixos: objeto, histÃ³ria e paleta principal"
     ],
-    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geração ficam fora desse tempo.",
+    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geraÃ§Ã£o ficam fora desse tempo.",
     "cartoes": [
       [
-        "A versão de papel perdeu a alça. Qual decisão atende ao projeto?",
-        "Corrigir a alça antes de animar a imagem"
+        "A versÃ£o de papel perdeu a alÃ§a. Qual decisÃ£o atende ao projeto?",
+        "Corrigir a alÃ§a antes de animar a imagem"
       ],
       [
         "O que conferir antes de seguir?",
-        "Revisar o estilo inclui conferir se o objeto continua reconhecível, não apenas se a textura ficou bonita."
+        "Revisar o estilo inclui conferir se o objeto continua reconhecÃ­vel, nÃ£o apenas se a textura ficou bonita."
       ],
       [
-        "Qual evidência encerra esta prática?",
-        "duas notas de estilo e três características fixas estão registradas com a situação das imagens"
+        "Qual evidÃªncia encerra esta prÃ¡tica?",
+        "duas notas de estilo e trÃªs caracterÃ­sticas fixas estÃ£o registradas com a situaÃ§Ã£o das imagens"
       ]
     ],
-    "aviso_tempo": "Leitura: cerca de 15 minutos. Prática: 10 minutos ativos. Filas, produção de referências e correções exigem tempo adicional.",
-    "complemento": "Continuação de produção e documentação"
+    "aviso_tempo": "Leitura: cerca de 15 minutos. PrÃ¡tica: 10 minutos ativos. Filas, produÃ§Ã£o de referÃªncias e correÃ§Ãµes exigem tempo adicional.",
+    "complemento": "ContinuaÃ§Ã£o de produÃ§Ã£o e documentaÃ§Ã£o"
   },
   {
-    "titulo": "Escreva três planos que contam a mesma história",
-    "entrega": "montar um storyboard curto com início, ação e resultado",
-    "dor": "Dois estilos só podem ser comparados com clareza quando contam a mesma história. Fixe a sequência antes de escolher os efeitos.",
-    "antes": "Pedir cinema, ação, vários efeitos e estilos diferentes sem sequência.",
-    "depois": "Mostrar lanterna, acender e revelar a luz em três planos definidos.",
+    "titulo": "Escreva trÃªs planos que contam a mesma histÃ³ria",
+    "entrega": "montar um storyboard curto com inÃ­cio, aÃ§Ã£o e resultado",
+    "dor": "Dois estilos sÃ³ podem ser comparados com clareza quando contam a mesma histÃ³ria. Fixe a sequÃªncia antes de escolher os efeitos.",
+    "antes": "Pedir cARCKHÉ, aÃ§Ã£o, vÃ¡rios efeitos e estilos diferentes sem sequÃªncia.",
+    "depois": "Mostrar lanterna, acender e revelar a luz em trÃªs planos definidos.",
     "campos": [
       "Plano 1: apresentar objeto e ambiente",
-      "Plano 2: mostrar a mudança de luz",
+      "Plano 2: mostrar a mudanÃ§a de luz",
       "Plano 3: revelar o resultado"
     ],
     "passos": [
-      "Crie três cartões com começo, ação e resultado. Anote o que aparece e como a câmera se comporta.",
-      "Distribua a duração total aceita pela ferramenta entre os planos. Registre a soma e o estado final de cada um.",
-      "Escreva um pedido curto com referências e áudio desejado. Guarde a mesma história para as duas versões de estilo."
+      "Crie trÃªs cartÃµes com comeÃ§o, aÃ§Ã£o e resultado. Anote o que aparece e como a cÃ¢mera se comporta.",
+      "Distribua a duraÃ§Ã£o total aceita pela ferramenta entre os planos. Registre a soma e o estado final de cada um.",
+      "Escreva um pedido curto com referÃªncias e Ã¡udio desejado. Guarde a mesma histÃ³ria para as duas versÃµes de estilo."
     ],
-    "molde": "Contexto: lanterna sobre tronco ao anoitecer.\nReferências: <objeto apagado, ambiente, estilo>\nPlano 1: lanterna apagada no ambiente; câmera parada.\nPlano 2: detalhe da janela da lanterna; luz acende suavemente.\nPlano 3: visão do objeto iluminando o tronco.\nTransições: cortes simples.\nDuração por plano / total: <valores aceitos>\nÁudio: ambiente discreto, sem fala.\nEstilo: <A ou B>",
-    "pronto": "um roteiro de três planos tem ação, câmera, transição e duração conferidas",
-    "confira": "A e B devem usar a mesma história para que a comparação destaque a mudança de estilo.",
-    "calma": "Se o detalhe da lanterna não aparece na referência, simplifique a ação ou prepare outra imagem antes de gerar.",
-    "q": "A versão B mudou também a história e a câmera. O que ficou difícil avaliar?",
+    "molde": "Contexto: lanterna sobre tronco ao anoitecer.\nReferÃªncias: <objeto apagado, ambiente, estilo>\nPlano 1: lanterna apagada no ambiente; cÃ¢mera parada.\nPlano 2: detalhe da janela da lanterna; luz acende suavemente.\nPlano 3: visÃ£o do objeto iluminando o tronco.\nTransiÃ§Ãµes: cortes simples.\nDuraÃ§Ã£o por plano / total: <valores aceitos>\nÃudio: ambiente discreto, sem fala.\nEstilo: <A ou B>",
+    "pronto": "um roteiro de trÃªs planos tem aÃ§Ã£o, cÃ¢mera, transiÃ§Ã£o e duraÃ§Ã£o conferidas",
+    "confira": "A e B devem usar a mesma histÃ³ria para que a comparaÃ§Ã£o destaque a mudanÃ§a de estilo.",
+    "calma": "Se o detalhe da lanterna nÃ£o aparece na referÃªncia, simplifique a aÃ§Ã£o ou prepare outra imagem antes de gerar.",
+    "q": "A versÃ£o B mudou tambÃ©m a histÃ³ria e a cÃ¢mera. O que ficou difÃ­cil avaliar?",
     "opcoes": [
-      "O efeito isolado da mudança de estilo",
-      "O nome da pasta onde os arquivos estão",
+      "O efeito isolado da mudanÃ§a de estilo",
+      "O nome da pasta onde os arquivos estÃ£o",
       "A data em que o roteiro foi escrito"
     ],
     "correta": 0,
-    "observacao": "Os cartões são rascunhos de planejamento. O detalhe de botão é uma possibilidade a conferir; o roteiro desta aula pode usar somente a luz acendendo.",
-    "ex1": "Lara limita o pedido para enxergar contradições antes de gastar.",
-    "ex2": "Roberto mantém a mesma história nas duas versões para comparar a mensagem.",
-    "tarefa": "Escreva três planos que contam a mesma história",
+    "observacao": "Os cartÃµes sÃ£o rascunhos de planejamento. O detalhe de botÃ£o Ã© uma possibilidade a conferir; o roteiro desta aula pode usar somente a luz acendendo.",
+    "ex1": "Lara limita o pedido para enxergar contradiÃ§Ãµes antes de gastar.",
+    "ex2": "Roberto mantÃ©m a mesma histÃ³ria nas duas versÃµes para comparar a mensagem.",
+    "tarefa": "Escreva trÃªs planos que contam a mesma histÃ³ria",
     "resumo": [
       "Plano 1: apresentar objeto e ambiente",
-      "Plano 2: mostrar a mudança de luz",
+      "Plano 2: mostrar a mudanÃ§a de luz",
       "Plano 3: revelar o resultado"
     ],
-    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geração ficam fora desse tempo.",
+    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geraÃ§Ã£o ficam fora desse tempo.",
     "cartoes": [
       [
-        "A versão B mudou também a história e a câmera. O que ficou difícil avaliar?",
-        "O efeito isolado da mudança de estilo"
+        "A versÃ£o B mudou tambÃ©m a histÃ³ria e a cÃ¢mera. O que ficou difÃ­cil avaliar?",
+        "O efeito isolado da mudanÃ§a de estilo"
       ],
       [
         "O que conferir antes de seguir?",
-        "A e B devem usar a mesma história para que a comparação destaque a mudança de estilo."
+        "A e B devem usar a mesma histÃ³ria para que a comparaÃ§Ã£o destaque a mudanÃ§a de estilo."
       ],
       [
-        "Qual evidência encerra esta prática?",
-        "um roteiro de três planos tem ação, câmera, transição e duração conferidas"
+        "Qual evidÃªncia encerra esta prÃ¡tica?",
+        "um roteiro de trÃªs planos tem aÃ§Ã£o, cÃ¢mera, transiÃ§Ã£o e duraÃ§Ã£o conferidas"
       ]
     ],
-    "aviso_tempo": "Leitura: cerca de 15 minutos. Prática: 10 minutos ativos. Filas, produção de referências e correções exigem tempo adicional.",
-    "complemento": "Continuação de produção e documentação"
+    "aviso_tempo": "Leitura: cerca de 15 minutos. PrÃ¡tica: 10 minutos ativos. Filas, produÃ§Ã£o de referÃªncias e correÃ§Ãµes exigem tempo adicional.",
+    "complemento": "ContinuaÃ§Ã£o de produÃ§Ã£o e documentaÃ§Ã£o"
   },
   {
-    "titulo": "Gere a primeira versão no Seedance disponível",
+    "titulo": "Gere a primeira versÃ£o no Seedance disponÃ­vel",
     "entrega": "produzir e revisar um teste curto no estilo A",
-    "dor": "O primeiro teste deve responder se a história e a aparência funcionam juntas. Comece com uma saída pequena e registre o que realmente foi executado.",
-    "antes": "Gerar várias versões caras sem conferir se a primeira conta a história.",
-    "depois": "Fazer uma saída curta, salvar e revisar ordem, ação e objeto.",
+    "dor": "O primeiro teste deve responder se a histÃ³ria e a aparÃªncia funcionam juntas. Comece com uma saÃ­da pequena e registre o que realmente foi executado.",
+    "antes": "Gerar vÃ¡rias versÃµes caras sem conferir se a primeira conta a histÃ³ria.",
+    "depois": "Fazer uma saÃ­da curta, salvar e revisar ordem, aÃ§Ã£o e objeto.",
     "campos": [
       "Entrada: imagem A revisada",
-      "Pedido: roteiro de três planos",
-      "Revisão: história antes de acabamento"
+      "Pedido: roteiro de trÃªs planos",
+      "RevisÃ£o: histÃ³ria antes de acabamento"
     ],
     "passos": [
-      "Finalize a imagem A da aula 2 e confira seu estado inicial. Abra o modo Seedance disponível e vincule as referências escolhidas.",
-      "Cole o roteiro, ajuste duração, formato e áudio, e confira o custo. Gere uma tentativa dentro do teto.",
-      "Após a fila, salve e revise o vídeo inteiro. Registre o que cumpriu e o que precisa mudar. Sem acesso, mantenha a prática pendente."
+      "Finalize a imagem A da aula 2 e confira seu estado inicial. Abra o modo Seedance disponÃ­vel e vincule as referÃªncias escolhidas.",
+      "Cole o roteiro, ajuste duraÃ§Ã£o, formato e Ã¡udio, e confira o custo. Gere uma tentativa dentro do teto.",
+      "ApÃ³s a fila, salve e revise o vÃ­deo inteiro. Registre o que cumpriu e o que precisa mudar. Sem acesso, mantenha a prÃ¡tica pendente."
     ],
-    "molde": "Modelo/plataforma: <nome atual>\nImagem A: <arquivo>\nReferências vinculadas: <funções>\nRoteiro: <aula 3>\nDuração/formato/áudio: <configuração>\nCusto e teto: <valores>\nSaída A: <arquivo>\nRevisão: ordem / ação / objeto / estilo",
-    "pronto": "um vídeo A foi salvo e revisado com configuração registrada",
-    "confira": "Prática concluída exige arquivo gerado e revisado. Sem acesso ou com fila, registre a situação e retome depois.",
-    "calma": "Se sua imagem já tem luz acesa, revise o roteiro ou prepare uma imagem apagada antes de começar a animação.",
-    "q": "A imagem inicial já está acesa, mas o roteiro começa apagado. O que alinhar?",
+    "molde": "Modelo/plataforma: <nome atual>\nImagem A: <arquivo>\nReferÃªncias vinculadas: <funÃ§Ãµes>\nRoteiro: <aula 3>\nDuraÃ§Ã£o/formato/Ã¡udio: <configuraÃ§Ã£o>\nCusto e teto: <valores>\nSaÃ­da A: <arquivo>\nRevisÃ£o: ordem / aÃ§Ã£o / objeto / estilo",
+    "pronto": "um vÃ­deo A foi salvo e revisado com configuraÃ§Ã£o registrada",
+    "confira": "PrÃ¡tica concluÃ­da exige arquivo gerado e revisado. Sem acesso ou com fila, registre a situaÃ§Ã£o e retome depois.",
+    "calma": "Se sua imagem jÃ¡ tem luz acesa, revise o roteiro ou prepare uma imagem apagada antes de comeÃ§ar a animaÃ§Ã£o.",
+    "q": "A imagem inicial jÃ¡ estÃ¡ acesa, mas o roteiro comeÃ§a apagado. O que alinhar?",
     "opcoes": [
-      "Somente o nome do arquivo de saída",
-      "A cor da pasta de referências do projeto",
-      "O estado inicial da imagem com a história"
+      "Somente o nome do arquivo de saÃ­da",
+      "A cor da pasta de referÃªncias do projeto",
+      "O estado inicial da imagem com a histÃ³ria"
     ],
     "correta": 2,
-    "observacao": "Este estudo de animação 2D mostra uma lanterna já acesa. Ele ilustra linguagem visual; não é entrada pronta para o começo apagado nem resultado Seedance.",
-    "ex1": "Lara confere a ordem dos planos antes de pedir uma saída maior.",
-    "ex2": "Roberto compara a lanterna ao longo do vídeo, não apenas na miniatura.",
-    "tarefa": "Gere a primeira versão no Seedance disponível",
+    "observacao": "Este estudo de animaÃ§Ã£o 2D mostra uma lanterna jÃ¡ acesa. Ele ilustra linguagem visual; nÃ£o Ã© entrada pronta para o comeÃ§o apagado nem resultado Seedance.",
+    "ex1": "Lara confere a ordem dos planos antes de pedir uma saÃ­da maior.",
+    "ex2": "Roberto compara a lanterna ao longo do vÃ­deo, nÃ£o apenas na miniatura.",
+    "tarefa": "Gere a primeira versÃ£o no Seedance disponÃ­vel",
     "resumo": [
       "Entrada: imagem A revisada",
-      "Pedido: roteiro de três planos",
-      "Revisão: história antes de acabamento"
+      "Pedido: roteiro de trÃªs planos",
+      "RevisÃ£o: histÃ³ria antes de acabamento"
     ],
-    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geração ficam fora desse tempo.",
+    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geraÃ§Ã£o ficam fora desse tempo.",
     "cartoes": [
       [
-        "A imagem inicial já está acesa, mas o roteiro começa apagado. O que alinhar?",
-        "O estado inicial da imagem com a história"
+        "A imagem inicial jÃ¡ estÃ¡ acesa, mas o roteiro comeÃ§a apagado. O que alinhar?",
+        "O estado inicial da imagem com a histÃ³ria"
       ],
       [
         "O que conferir antes de seguir?",
-        "Prática concluída exige arquivo gerado e revisado. Sem acesso ou com fila, registre a situação e retome depois."
+        "PrÃ¡tica concluÃ­da exige arquivo gerado e revisado. Sem acesso ou com fila, registre a situaÃ§Ã£o e retome depois."
       ],
       [
-        "Qual evidência encerra esta prática?",
-        "um vídeo A foi salvo e revisado com configuração registrada"
+        "Qual evidÃªncia encerra esta prÃ¡tica?",
+        "um vÃ­deo A foi salvo e revisado com configuraÃ§Ã£o registrada"
       ]
     ],
-    "aviso_tempo": "Leitura: cerca de 15 minutos. Prática: 10 minutos ativos. Filas, produção de referências e correções exigem tempo adicional.",
-    "complemento": "Continuação de produção e documentação"
+    "aviso_tempo": "Leitura: cerca de 15 minutos. PrÃ¡tica: 10 minutos ativos. Filas, produÃ§Ã£o de referÃªncias e correÃ§Ãµes exigem tempo adicional.",
+    "complemento": "ContinuaÃ§Ã£o de produÃ§Ã£o e documentaÃ§Ã£o"
   },
   {
-    "titulo": "Produza a versão B e compare com critérios",
-    "entrega": "gerar a segunda linguagem e registrar diferenças observadas",
-    "dor": "A segunda versão só ensina alguma coisa quando você sabe o que manteve. Separe mudança planejada de variação inesperada.",
-    "antes": "Escolher B porque parece mais novo, mesmo mudando toda a história.",
-    "depois": "Manter a sequência e comparar clareza, textura e continuidade nos dois arquivos.",
+    "titulo": "Produza a versÃ£o B e compare com critÃ©rios",
+    "entrega": "gerar a segunda linguagem e registrar diferenÃ§as observadas",
+    "dor": "A segunda versÃ£o sÃ³ ensina alguma coisa quando vocÃª sabe o que manteve. Separe mudanÃ§a planejada de variaÃ§Ã£o inesperada.",
+    "antes": "Escolher B porque parece mais novo, mesmo mudando toda a histÃ³ria.",
+    "depois": "Manter a sequÃªncia e comparar clareza, textura e continuidade nos dois arquivos.",
     "campos": [
-      "Mantidos: roteiro, duração e câmera",
+      "Mantidos: roteiro, duraÃ§Ã£o e cÃ¢mera",
       "Alterados: imagem e nota de estilo",
-      "Critérios: clareza, continuidade e intenção"
+      "CritÃ©rios: clareza, continuidade e intenÃ§Ã£o"
     ],
     "passos": [
-      "Confira a imagem B e copie as configurações de A. Registre qualquer condição que mudou além do estilo.",
-      "Gere B dentro do teto e salve o vídeo. Se não houver acesso, deixe a execução pendente.",
-      "Assista A e B, primeiro sem som e depois com áudio. Anote uma força e sua escolha. Registre defeitos ou nenhum observado nos critérios conferidos."
+      "Confira a imagem B e copie as configuraÃ§Ãµes de A. Registre qualquer condiÃ§Ã£o que mudou alÃ©m do estilo.",
+      "Gere B dentro do teto e salve o vÃ­deo. Se nÃ£o houver acesso, deixe a execuÃ§Ã£o pendente.",
+      "Assista A e B, primeiro sem som e depois com Ã¡udio. Anote uma forÃ§a e sua escolha. Registre defeitos ou nenhum observado nos critÃ©rios conferidos."
     ],
-    "molde": "Condições iguais: <lista>\nMudanças além do estilo: <nenhuma ou lista>\nArquivo A / B: <nomes>\nClareza da ação: <observação>\nContinuidade: <observação>\nTextura e paleta: <observação>\nEscolha para meu público: <A ou B e motivo>",
-    "pronto": "os dois vídeos foram comparados e a escolha tem evidências observadas",
-    "confira": "Dois estudos estáticos mostram aparência; a comparação de movimento exige os dois arquivos de vídeo.",
+    "molde": "CondiÃ§Ãµes iguais: <lista>\nMudanÃ§as alÃ©m do estilo: <nenhuma ou lista>\nArquivo A / B: <nomes>\nClareza da aÃ§Ã£o: <observaÃ§Ã£o>\nContinuidade: <observaÃ§Ã£o>\nTextura e paleta: <observaÃ§Ã£o>\nEscolha para meu pÃºblico: <A ou B e motivo>",
+    "pronto": "os dois vÃ­deos foram comparados e a escolha tem evidÃªncias observadas",
+    "confira": "Dois estudos estÃ¡ticos mostram aparÃªncia; a comparaÃ§Ã£o de movimento exige os dois arquivos de vÃ­deo.",
     "calma": "Se B mudou demais o produto, revise a imagem de partida antes de atribuir o erro ao estilo de papel.",
-    "q": "B também mudou a câmera. Qual conclusão é mais cuidadosa?",
+    "q": "B tambÃ©m mudou a cÃ¢mera. Qual conclusÃ£o Ã© mais cuidadosa?",
     "opcoes": [
-      "A câmera nunca influencia a percepção da cena",
-      "Toda diferença foi causada somente pelo papel",
-      "A comparação inclui estilo e mudança de câmera"
+      "A cÃ¢mera nunca influencia a percepÃ§Ã£o da cena",
+      "Toda diferenÃ§a foi causada somente pelo papel",
+      "A comparaÃ§Ã£o inclui estilo e mudanÃ§a de cÃ¢mera"
     ],
     "correta": 2,
-    "observacao": "A maquete de papel é um estudo independente. Compare sua forma com a referência antes de usar; ela não é o mesmo teste de vídeo da versão A.",
-    "ex1": "Lara registra uma mudança de câmera que impede uma comparação isolada.",
-    "ex2": "Roberto escolhe pela clareza da mensagem para os hóspedes, não pelo efeito mais chamativo.",
-    "tarefa": "Produza a versão B e compare com critérios",
+    "observacao": "A maquete de papel Ã© um estudo independente. Compare sua forma com a referÃªncia antes de usar; ela nÃ£o Ã© o mesmo teste de vÃ­deo da versÃ£o A.",
+    "ex1": "Lara registra uma mudanÃ§a de cÃ¢mera que impede uma comparaÃ§Ã£o isolada.",
+    "ex2": "Roberto escolhe pela clareza da mensagem para os hÃ³spedes, nÃ£o pelo efeito mais chamativo.",
+    "tarefa": "Produza a versÃ£o B e compare com critÃ©rios",
     "resumo": [
-      "Mantidos: roteiro, duração e câmera",
+      "Mantidos: roteiro, duraÃ§Ã£o e cÃ¢mera",
       "Alterados: imagem e nota de estilo",
-      "Critérios: clareza, continuidade e intenção"
+      "CritÃ©rios: clareza, continuidade e intenÃ§Ã£o"
     ],
-    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geração ficam fora desse tempo.",
+    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geraÃ§Ã£o ficam fora desse tempo.",
     "cartoes": [
       [
-        "B também mudou a câmera. Qual conclusão é mais cuidadosa?",
-        "A comparação inclui estilo e mudança de câmera"
+        "B tambÃ©m mudou a cÃ¢mera. Qual conclusÃ£o Ã© mais cuidadosa?",
+        "A comparaÃ§Ã£o inclui estilo e mudanÃ§a de cÃ¢mera"
       ],
       [
         "O que conferir antes de seguir?",
-        "Dois estudos estáticos mostram aparência; a comparação de movimento exige os dois arquivos de vídeo."
+        "Dois estudos estÃ¡ticos mostram aparÃªncia; a comparaÃ§Ã£o de movimento exige os dois arquivos de vÃ­deo."
       ],
       [
-        "Qual evidência encerra esta prática?",
-        "os dois vídeos foram comparados e a escolha tem evidências observadas"
+        "Qual evidÃªncia encerra esta prÃ¡tica?",
+        "os dois vÃ­deos foram comparados e a escolha tem evidÃªncias observadas"
       ]
     ],
-    "aviso_tempo": "Leitura: cerca de 15 minutos. Prática: 10 minutos ativos. Filas, produção de referências e correções exigem tempo adicional.",
-    "complemento": "Continuação de produção e documentação"
+    "aviso_tempo": "Leitura: cerca de 15 minutos. PrÃ¡tica: 10 minutos ativos. Filas, produÃ§Ã£o de referÃªncias e correÃ§Ãµes exigem tempo adicional.",
+    "complemento": "ContinuaÃ§Ã£o de produÃ§Ã£o e documentaÃ§Ã£o"
   },
   {
-    "titulo": "Planeje câmera, lente e momento narrativo",
-    "entrega": "escrever uma ficha de câmera com intenção e critério de revisão",
-    "dor": "Nomes de câmera e lente não substituem uma intenção. Decida o que o público precisa perceber e só então escolha o enquadramento.",
-    "antes": "Escolher lente e câmera famosas sem dizer o que precisa aparecer.",
-    "depois": "Definir atenção, enquadramento e destino do movimento antes da configuração.",
+    "titulo": "Planeje cÃ¢mera, lente e momento narrativo",
+    "entrega": "escrever uma ficha de cÃ¢mera com intenÃ§Ã£o e critÃ©rio de revisÃ£o",
+    "dor": "Nomes de cÃ¢mera e lente nÃ£o substituem uma intenÃ§Ã£o. Decida o que o pÃºblico precisa perceber e sÃ³ entÃ£o escolha o enquadramento.",
+    "antes": "Escolher lente e cÃ¢mera famosas sem dizer o que precisa aparecer.",
+    "depois": "Definir atenÃ§Ã£o, enquadramento e destino do movimento antes da configuraÃ§Ã£o.",
     "campos": [
-      "Função: revelar a luz acendendo",
-      "Câmera: parada ou aproximação curta",
-      "Critério: objeto legível e ação clara"
+      "FunÃ§Ã£o: revelar a luz acendendo",
+      "CÃ¢mera: parada ou aproximaÃ§Ã£o curta",
+      "CritÃ©rio: objeto legÃ­vel e aÃ§Ã£o clara"
     ],
     "passos": [
-      "Escolha um plano do roteiro e escreva o que o público deve perceber primeiro.",
-      "Defina enquadramento, movimento e ponto final. Consulte os controles disponíveis no modo escolhido e anote os valores reais.",
-      "Escreva um critério de aprovação que possa ser visto no vídeo. Guarde a ficha para a geração da próxima aula."
+      "Escolha um plano do roteiro e escreva o que o pÃºblico deve perceber primeiro.",
+      "Defina enquadramento, movimento e ponto final. Consulte os controles disponÃ­veis no modo escolhido e anote os valores reais.",
+      "Escreva um critÃ©rio de aprovaÃ§Ã£o que possa ser visto no vÃ­deo. Guarde a ficha para a geraÃ§Ã£o da prÃ³xima aula."
     ],
-    "molde": "Plano: <número e função>\nAtenção principal: luz acendendo\nEnquadramento: <aberto ou fechado>\nMovimento: <parado ou um movimento>\nPonto final: <situação>\nCâmera/lente/focal disponíveis: <opções reais>\nAprovar se: ação clara e objeto íntegro",
-    "pronto": "uma ficha relaciona intenção, enquadramento, movimento e configuração disponível",
-    "confira": "O nome da lente não comprova um resultado; confira como objeto e ambiente aparecem no vídeo.",
-    "calma": "Se não entende um controle, mantenha o padrão e anote isso. Você pode comparar depois com uma única alteração.",
-    "q": "O objetivo é mostrar o ambiente da pousada. Qual enquadramento ajuda primeiro?",
+    "molde": "Plano: <nÃºmero e funÃ§Ã£o>\nAtenÃ§Ã£o principal: luz acendendo\nEnquadramento: <aberto ou fechado>\nMovimento: <parado ou um movimento>\nPonto final: <situaÃ§Ã£o>\nCÃ¢mera/lente/focal disponÃ­veis: <opÃ§Ãµes reais>\nAprovar se: aÃ§Ã£o clara e objeto Ã­ntegro",
+    "pronto": "uma ficha relaciona intenÃ§Ã£o, enquadramento, movimento e configuraÃ§Ã£o disponÃ­vel",
+    "confira": "O nome da lente nÃ£o comprova um resultado; confira como objeto e ambiente aparecem no vÃ­deo.",
+    "calma": "Se nÃ£o entende um controle, mantenha o padrÃ£o e anote isso. VocÃª pode comparar depois com uma Ãºnica alteraÃ§Ã£o.",
+    "q": "O objetivo Ã© mostrar o ambiente da pousada. Qual enquadramento ajuda primeiro?",
     "opcoes": [
       "Um plano mais aberto com objeto e ambiente",
       "Um recorte que esconde todo o entorno",
-      "Um detalhe sem relação com a mensagem"
+      "Um detalhe sem relaÃ§Ã£o com a mensagem"
     ],
     "correta": 0,
-    "observacao": "Os dois quadros comparam campo amplo e recorte próximo. Não são uma medição de lentes nem uma simulação óptica certificada.",
-    "ex1": "Lara escolhe o movimento pelo momento da história, não pela lista de efeitos.",
-    "ex2": "Roberto pede espaço para reconhecer o ambiente da pousada.",
-    "tarefa": "Planeje câmera, lente e momento narrativo",
+    "observacao": "Os dois quadros comparam campo amplo e recorte prÃ³ximo. NÃ£o sÃ£o uma mediÃ§Ã£o de lentes nem uma simulaÃ§Ã£o Ã³ptica certificada.",
+    "ex1": "Lara escolhe o movimento pelo momento da histÃ³ria, nÃ£o pela lista de efeitos.",
+    "ex2": "Roberto pede espaÃ§o para reconhecer o ambiente da pousada.",
+    "tarefa": "Planeje cÃ¢mera, lente e momento narrativo",
     "resumo": [
-      "Função: revelar a luz acendendo",
-      "Câmera: parada ou aproximação curta",
-      "Critério: objeto legível e ação clara"
+      "FunÃ§Ã£o: revelar a luz acendendo",
+      "CÃ¢mera: parada ou aproximaÃ§Ã£o curta",
+      "CritÃ©rio: objeto legÃ­vel e aÃ§Ã£o clara"
     ],
-    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geração ficam fora desse tempo.",
+    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geraÃ§Ã£o ficam fora desse tempo.",
     "cartoes": [
       [
-        "O objetivo é mostrar o ambiente da pousada. Qual enquadramento ajuda primeiro?",
+        "O objetivo Ã© mostrar o ambiente da pousada. Qual enquadramento ajuda primeiro?",
         "Um plano mais aberto com objeto e ambiente"
       ],
       [
         "O que conferir antes de seguir?",
-        "O nome da lente não comprova um resultado; confira como objeto e ambiente aparecem no vídeo."
+        "O nome da lente nÃ£o comprova um resultado; confira como objeto e ambiente aparecem no vÃ­deo."
       ],
       [
-        "Qual evidência encerra esta prática?",
-        "uma ficha relaciona intenção, enquadramento, movimento e configuração disponível"
+        "Qual evidÃªncia encerra esta prÃ¡tica?",
+        "uma ficha relaciona intenÃ§Ã£o, enquadramento, movimento e configuraÃ§Ã£o disponÃ­vel"
       ]
     ],
-    "aviso_tempo": "Leitura: cerca de 15 minutos. Prática: 10 minutos ativos. Filas, produção de referências e correções exigem tempo adicional.",
-    "complemento": "Continuação de produção e documentação"
+    "aviso_tempo": "Leitura: cerca de 15 minutos. PrÃ¡tica: 10 minutos ativos. Filas, produÃ§Ã£o de referÃªncias e correÃ§Ãµes exigem tempo adicional.",
+    "complemento": "ContinuaÃ§Ã£o de produÃ§Ã£o e documentaÃ§Ã£o"
   },
   {
-    "titulo": "Gere uma cena no Cinema Studio com transição",
+    "titulo": "Gere uma cena no CARCKHÉ Studio com transiÃ§Ã£o",
     "entrega": "produzir uma cena curta e conferir a passagem entre planos",
-    "dor": "Uma transição precisa conectar duas ideias. O efeito mais vistoso pode distrair quando não há motivo para mudar de plano.",
-    "antes": "Adicionar uma transição chamativa sem relação entre os planos.",
-    "depois": "Definir fim, começo e o motivo visual da passagem.",
+    "dor": "Uma transiÃ§Ã£o precisa conectar duas ideias. O efeito mais vistoso pode distrair quando nÃ£o hÃ¡ motivo para mudar de plano.",
+    "antes": "Adicionar uma transiÃ§Ã£o chamativa sem relaÃ§Ã£o entre os planos.",
+    "depois": "Definir fim, comeÃ§o e o motivo visual da passagem.",
     "campos": [
-      "Cena: poucos planos com função",
-      "Transição: corte simples ou semelhança",
-      "Revisão: assistir à passagem inteira"
+      "Cena: poucos planos com funÃ§Ã£o",
+      "TransiÃ§Ã£o: corte simples ou semelhanÃ§a",
+      "RevisÃ£o: assistir Ã  passagem inteira"
     ],
     "passos": [
-      "Abra o Cinema Studio disponível e prepare referências e ficha de câmera. Escreva dois ou três planos e a passagem desejada.",
-      "Confira configurações e custo. Gere uma tentativa dentro do teto; mantenha pendente se o acesso não permitir.",
-      "Salve e assista ao vídeo. Registre como a transição ocorreu e se precisa de nova tentativa ou montagem posterior."
+      "Abra o CARCKHÉ Studio disponÃ­vel e prepare referÃªncias e ficha de cÃ¢mera. Escreva dois ou trÃªs planos e a passagem desejada.",
+      "Confira configuraÃ§Ãµes e custo. Gere uma tentativa dentro do teto; mantenha pendente se o acesso nÃ£o permitir.",
+      "Salve e assista ao vÃ­deo. Registre como a transiÃ§Ã£o ocorreu e se precisa de nova tentativa ou montagem posterior."
     ],
-    "molde": "Versão do Studio: <tela>\nReferências: <arquivos e funções>\nPlano 1 termina: <estado>\nPlano 2 começa: <estado>\nMotivo da passagem: <continuidade ou semelhança>\nConfiguração/custo: <tela>\nArquivo: <saída>\nTransição: gerada / montada depois / pendente",
+    "molde": "VersÃ£o do Studio: <tela>\nReferÃªncias: <arquivos e funÃ§Ãµes>\nPlano 1 termina: <estado>\nPlano 2 comeÃ§a: <estado>\nMotivo da passagem: <continuidade ou semelhanÃ§a>\nConfiguraÃ§Ã£o/custo: <tela>\nArquivo: <saÃ­da>\nTransiÃ§Ã£o: gerada / montada depois / pendente",
     "pronto": "uma cena gerada foi salva e a passagem entre planos foi revisada",
-    "confira": "Se a transição foi feita no editor, registre isso. O resultado final não comprova que o gerador executou o corte.",
-    "calma": "Se o plano gerado não corta onde você pediu, simplifique a sequência ou separe os planos para montar depois.",
-    "q": "Você juntou dois clipes no editor para obter o corte. Como descrever a entrega?",
+    "confira": "Se a transiÃ§Ã£o foi feita no editor, registre isso. O resultado final nÃ£o comprova que o gerador executou o corte.",
+    "calma": "Se o plano gerado nÃ£o corta onde vocÃª pediu, simplifique a sequÃªncia ou separe os planos para montar depois.",
+    "q": "VocÃª juntou dois clipes no editor para obter o corte. Como descrever a entrega?",
     "opcoes": [
-      "Transição nativa comprovada pelo modelo",
-      "Uma única geração sem edição posterior",
-      "Transição montada depois da geração"
+      "TransiÃ§Ã£o nativa comprovada pelo modelo",
+      "Uma Ãºnica geraÃ§Ã£o sem ediÃ§Ã£o posterior",
+      "TransiÃ§Ã£o montada depois da geraÃ§Ã£o"
     ],
     "correta": 2,
-    "observacao": "A luminária redonda e o sol ilustram um corte por semelhança em um exemplo independente. Não são a lanterna Vagalume nem uma transição de vídeo executada.",
-    "ex1": "Lara escreve o último quadro de um plano e o primeiro do seguinte.",
+    "observacao": "A luminÃ¡ria redonda e o sol ilustram um corte por semelhanÃ§a em um exemplo independente. NÃ£o sÃ£o a lanterna Vagalume nem uma transiÃ§Ã£o de vÃ­deo executada.",
+    "ex1": "Lara escreve o Ãºltimo quadro de um plano e o primeiro do seguinte.",
     "ex2": "Roberto escolhe um corte discreto quando ele deixa a mensagem mais clara.",
-    "tarefa": "Gere uma cena no Cinema Studio com transição",
+    "tarefa": "Gere uma cena no CARCKHÉ Studio com transiÃ§Ã£o",
     "resumo": [
-      "Cena: poucos planos com função",
-      "Transição: corte simples ou semelhança",
-      "Revisão: assistir à passagem inteira"
+      "Cena: poucos planos com funÃ§Ã£o",
+      "TransiÃ§Ã£o: corte simples ou semelhanÃ§a",
+      "RevisÃ£o: assistir Ã  passagem inteira"
     ],
-    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geração ficam fora desse tempo.",
+    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geraÃ§Ã£o ficam fora desse tempo.",
     "cartoes": [
       [
-        "Você juntou dois clipes no editor para obter o corte. Como descrever a entrega?",
-        "Transição montada depois da geração"
+        "VocÃª juntou dois clipes no editor para obter o corte. Como descrever a entrega?",
+        "TransiÃ§Ã£o montada depois da geraÃ§Ã£o"
       ],
       [
         "O que conferir antes de seguir?",
-        "Se a transição foi feita no editor, registre isso. O resultado final não comprova que o gerador executou o corte."
+        "Se a transiÃ§Ã£o foi feita no editor, registre isso. O resultado final nÃ£o comprova que o gerador executou o corte."
       ],
       [
-        "Qual evidência encerra esta prática?",
+        "Qual evidÃªncia encerra esta prÃ¡tica?",
         "uma cena gerada foi salva e a passagem entre planos foi revisada"
       ]
     ],
-    "aviso_tempo": "Leitura: cerca de 15 minutos. Prática: 10 minutos ativos. Filas, produção de referências e correções exigem tempo adicional.",
-    "complemento": "Continuação de produção e documentação"
+    "aviso_tempo": "Leitura: cerca de 15 minutos. PrÃ¡tica: 10 minutos ativos. Filas, produÃ§Ã£o de referÃªncias e correÃ§Ãµes exigem tempo adicional.",
+    "complemento": "ContinuaÃ§Ã£o de produÃ§Ã£o e documentaÃ§Ã£o"
   },
   {
     "titulo": "Escolha outra ferramenta pela tarefa que falta",
-    "entrega": "planejar um teste comparável entre alternativas disponíveis",
-    "dor": "Nenhum nome de modelo resolve todas as cenas. Compare a tarefa necessária, as entradas aceitas e o resultado observado antes de trocar.",
-    "antes": "Trocar de modelo porque alguém disse que é sempre melhor em física.",
-    "depois": "Escolher uma tarefa concreta e comparar arquivos com condições registradas.",
+    "entrega": "planejar um teste comparÃ¡vel entre alternativas disponÃ­veis",
+    "dor": "Nenhum nome de modelo resolve todas as cenas. Compare a tarefa necessÃ¡ria, as entradas aceitas e o resultado observado antes de trocar.",
+    "antes": "Trocar de modelo porque alguÃ©m disse que Ã© sempre melhor em fÃ­sica.",
+    "depois": "Escolher uma tarefa concreta e comparar arquivos com condiÃ§Ãµes registradas.",
     "campos": [
       "Pergunta: qual falha quero investigar?",
       "Compatibilidade: entradas e recurso real",
-      "Evidência: arquivo, configuração e revisão"
+      "EvidÃªncia: arquivo, configuraÃ§Ã£o e revisÃ£o"
     ],
     "passos": [
-      "Escolha uma falha ou necessidade do seu projeto e transforme em um critério observável.",
-      "Consulte duas alternativas disponíveis e anote se aceitam as referências e a duração necessárias. Confira custo e limites.",
-      "Escreva um teste curto com condições mantidas e diferenças inevitáveis. Registre se está apenas planejado ou já executado."
+      "Escolha uma falha ou necessidade do seu projeto e transforme em um critÃ©rio observÃ¡vel.",
+      "Consulte duas alternativas disponÃ­veis e anote se aceitam as referÃªncias e a duraÃ§Ã£o necessÃ¡rias. Confira custo e limites.",
+      "Escreva um teste curto com condiÃ§Ãµes mantidas e diferenÃ§as inevitÃ¡veis. Registre se estÃ¡ apenas planejado ou jÃ¡ executado."
     ],
-    "molde": "Pergunta: o objeto permanece íntegro durante a ação?\nAlternativa A: <versão, modo, entradas, custo>\nAlternativa B: <versão, modo, entradas, custo>\nFixos: roteiro, referência e intenção\nDiferenças inevitáveis: <lista>\nArquivos: <nomes ou pendentes>\nConclusão possível: <observação limitada>",
-    "pronto": "um plano comparativo identifica tarefa, compatibilidade, custo e condições",
-    "confira": "Não transforme a consulta de recursos em uma afirmação de qualidade que você ainda não observou.",
-    "calma": "Sem saldo para comparar, finalize a ficha de compatibilidade. O teste de saída pode ficar para outra sessão.",
-    "q": "Você só leu as páginas de recursos. O que está comprovado?",
+    "molde": "Pergunta: o objeto permanece Ã­ntegro durante a aÃ§Ã£o?\nAlternativa A: <versÃ£o, modo, entradas, custo>\nAlternativa B: <versÃ£o, modo, entradas, custo>\nFixos: roteiro, referÃªncia e intenÃ§Ã£o\nDiferenÃ§as inevitÃ¡veis: <lista>\nArquivos: <nomes ou pendentes>\nConclusÃ£o possÃ­vel: <observaÃ§Ã£o limitada>",
+    "pronto": "um plano comparativo identifica tarefa, compatibilidade, custo e condiÃ§Ãµes",
+    "confira": "NÃ£o transforme a consulta de recursos em uma afirmaÃ§Ã£o de qualidade que vocÃª ainda nÃ£o observou.",
+    "calma": "Sem saldo para comparar, finalize a ficha de compatibilidade. O teste de saÃ­da pode ficar para outra sessÃ£o.",
+    "q": "VocÃª sÃ³ leu as pÃ¡ginas de recursos. O que estÃ¡ comprovado?",
     "opcoes": [
-      "Que a sua cena já funciona sem defeitos",
-      "Que um modelo sempre produz o melhor vídeo",
+      "Que a sua cena jÃ¡ funciona sem defeitos",
+      "Que um modelo sempre produz o melhor vÃ­deo",
       "Que consultou a compatibilidade documentada"
     ],
     "correta": 2,
-    "observacao": "Os cartões representam revisão de alternativas. São estudos ilustrados, não saídas comparadas de três serviços.",
+    "observacao": "Os cartÃµes representam revisÃ£o de alternativas. SÃ£o estudos ilustrados, nÃ£o saÃ­das comparadas de trÃªs serviÃ§os.",
     "ex1": "Lara investiga continuidade do objeto com um teste pequeno.",
     "ex2": "Roberto registra o custo e a disponibilidade antes de autorizar outra tentativa.",
     "tarefa": "Escolha outra ferramenta pela tarefa que falta",
     "resumo": [
       "Pergunta: qual falha quero investigar?",
       "Compatibilidade: entradas e recurso real",
-      "Evidência: arquivo, configuração e revisão"
+      "EvidÃªncia: arquivo, configuraÃ§Ã£o e revisÃ£o"
     ],
-    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geração ficam fora desse tempo.",
+    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geraÃ§Ã£o ficam fora desse tempo.",
     "cartoes": [
       [
-        "Você só leu as páginas de recursos. O que está comprovado?",
+        "VocÃª sÃ³ leu as pÃ¡ginas de recursos. O que estÃ¡ comprovado?",
         "Que consultou a compatibilidade documentada"
       ],
       [
         "O que conferir antes de seguir?",
-        "Não transforme a consulta de recursos em uma afirmação de qualidade que você ainda não observou."
+        "NÃ£o transforme a consulta de recursos em uma afirmaÃ§Ã£o de qualidade que vocÃª ainda nÃ£o observou."
       ],
       [
-        "Qual evidência encerra esta prática?",
-        "um plano comparativo identifica tarefa, compatibilidade, custo e condições"
+        "Qual evidÃªncia encerra esta prÃ¡tica?",
+        "um plano comparativo identifica tarefa, compatibilidade, custo e condiÃ§Ãµes"
       ]
     ],
-    "aviso_tempo": "Leitura: cerca de 15 minutos. Prática: 10 minutos ativos. Filas, produção de referências e correções exigem tempo adicional.",
-    "complemento": "Continuação de produção e documentação"
+    "aviso_tempo": "Leitura: cerca de 15 minutos. PrÃ¡tica: 10 minutos ativos. Filas, produÃ§Ã£o de referÃªncias e correÃ§Ãµes exigem tempo adicional.",
+    "complemento": "ContinuaÃ§Ã£o de produÃ§Ã£o e documentaÃ§Ã£o"
   },
   {
-    "titulo": "Revise os três arquivos antes de entregar",
-    "entrega": "auditar duas versões de estilo e uma cena cinematográfica",
-    "dor": "Uma apresentação de estilos só fica pronta quando os arquivos correspondem ao que você prometeu. A revisão final reúne história, imagem e forma de entrega.",
-    "antes": "Entregar só as imagens bonitas e afirmar que os três vídeos estão prontos.",
-    "depois": "Conferir cada arquivo, separar pendências e explicar o método usado.",
+    "titulo": "Revise os trÃªs arquivos antes de entregar",
+    "entrega": "auditar duas versÃµes de estilo e uma cena cARCKHÉtogrÃ¡fica",
+    "dor": "Uma apresentaÃ§Ã£o de estilos sÃ³ fica pronta quando os arquivos correspondem ao que vocÃª prometeu. A revisÃ£o final reÃºne histÃ³ria, imagem e forma de entrega.",
+    "antes": "Entregar sÃ³ as imagens bonitas e afirmar que os trÃªs vÃ­deos estÃ£o prontos.",
+    "depois": "Conferir cada arquivo, separar pendÃªncias e explicar o mÃ©todo usado.",
     "campos": [
-      "A e B: mesma história, estilos distintos",
-      "Cena cinema: câmera e passagem revisadas",
-      "Entrega: arquivos e método identificados"
+      "A e B: mesma histÃ³ria, estilos distintos",
+      "Cena cARCKHÉ: cÃ¢mera e passagem revisadas",
+      "Entrega: arquivos e mÃ©todo identificados"
     ],
     "passos": [
-      "Localize os três arquivos e registre estado: aprovado, refazer, pendente ou indisponível. Não preencha nome de vídeo que ainda não existe.",
-      "Assista aos disponíveis no celular. Confira história, objeto, estilo, câmera, transição e áudio quando houver.",
-      "Escreva a nota de entrega e a próxima ação para cada pendência. Só declare a produção final concluída depois de revisar os três vídeos."
+      "Localize os trÃªs arquivos e registre estado: aprovado, refazer, pendente ou indisponÃ­vel. NÃ£o preencha nome de vÃ­deo que ainda nÃ£o existe.",
+      "Assista aos disponÃ­veis no celular. Confira histÃ³ria, objeto, estilo, cÃ¢mera, transiÃ§Ã£o e Ã¡udio quando houver.",
+      "Escreva a nota de entrega e a prÃ³xima aÃ§Ã£o para cada pendÃªncia. SÃ³ declare a produÃ§Ã£o final concluÃ­da depois de revisar os trÃªs vÃ­deos."
     ],
-    "molde": "Vídeo A: <arquivo, modelo, revisão>\nVídeo B: <arquivo, modelo, revisão>\nCena Cinema Studio: <arquivo, versão, revisão>\nEdição posterior: <operações realizadas>\nAmpliação: <não usada ou configuração>\nPendências: <lista>\nNota de entrega: objetivo, escolhas, método e limites",
-    "pronto": "a auditoria registra os três estados e relaciona evidências às decisões",
-    "confira": "Auditoria concluída e produção concluída são coisas diferentes; o projeto final exige os três vídeos revisados.",
-    "calma": "Comece pela pendência que impede a comparação entre A e B. Deixe a ampliação para depois da aprovação do conteúdo.",
-    "q": "O vídeo ficou maior em resolução, mas manteve o objeto deformado. O que fazer?",
+    "molde": "VÃ­deo A: <arquivo, modelo, revisÃ£o>\nVÃ­deo B: <arquivo, modelo, revisÃ£o>\nCena CARCKHÉ Studio: <arquivo, versÃ£o, revisÃ£o>\nEdiÃ§Ã£o posterior: <operaÃ§Ãµes realizadas>\nAmpliaÃ§Ã£o: <nÃ£o usada ou configuraÃ§Ã£o>\nPendÃªncias: <lista>\nNota de entrega: objetivo, escolhas, mÃ©todo e limites",
+    "pronto": "a auditoria registra os trÃªs estados e relaciona evidÃªncias Ã s decisÃµes",
+    "confira": "Auditoria concluÃ­da e produÃ§Ã£o concluÃ­da sÃ£o coisas diferentes; o projeto final exige os trÃªs vÃ­deos revisados.",
+    "calma": "Comece pela pendÃªncia que impede a comparaÃ§Ã£o entre A e B. Deixe a ampliaÃ§Ã£o para depois da aprovaÃ§Ã£o do conteÃºdo.",
+    "q": "O vÃ­deo ficou maior em resoluÃ§Ã£o, mas manteve o objeto deformado. O que fazer?",
     "opcoes": [
-      "Rever a geração ou a montagem que contém o erro",
+      "Rever a geraÃ§Ã£o ou a montagem que contÃ©m o erro",
       "Aprovar porque mais pixels garantem fidelidade",
       "Trocar apenas o nome do arquivo exportado"
     ],
     "correta": 0,
-    "observacao": "As tiras são storyboards ilustrados de duas linguagens. Não demonstram arquivos de vídeo entregues nem uma comparação técnica entre modelos.",
-    "ex1": "Lara mantém o arquivo original para comparar qualquer ampliação.",
-    "ex2": "Roberto confere o resultado no celular antes de compartilhar com os hóspedes.",
-    "tarefa": "Revise os três arquivos antes de entregar",
+    "observacao": "As tiras sÃ£o storyboards ilustrados de duas linguagens. NÃ£o demonstram arquivos de vÃ­deo entregues nem uma comparaÃ§Ã£o tÃ©cnica entre modelos.",
+    "ex1": "Lara mantÃ©m o arquivo original para comparar qualquer ampliaÃ§Ã£o.",
+    "ex2": "Roberto confere o resultado no celular antes de compartilhar com os hÃ³spedes.",
+    "tarefa": "Revise os trÃªs arquivos antes de entregar",
     "resumo": [
-      "A e B: mesma história, estilos distintos",
-      "Cena cinema: câmera e passagem revisadas",
-      "Entrega: arquivos e método identificados"
+      "A e B: mesma histÃ³ria, estilos distintos",
+      "Cena cARCKHÉ: cÃ¢mera e passagem revisadas",
+      "Entrega: arquivos e mÃ©todo identificados"
     ],
-    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geração ficam fora desse tempo.",
+    "tempo_pratica": "Cerca de 10 minutos de trabalho ativo. Filas de geraÃ§Ã£o ficam fora desse tempo.",
     "cartoes": [
       [
-        "O vídeo ficou maior em resolução, mas manteve o objeto deformado. O que fazer?",
-        "Rever a geração ou a montagem que contém o erro"
+        "O vÃ­deo ficou maior em resoluÃ§Ã£o, mas manteve o objeto deformado. O que fazer?",
+        "Rever a geraÃ§Ã£o ou a montagem que contÃ©m o erro"
       ],
       [
         "O que conferir antes de seguir?",
-        "Auditoria concluída e produção concluída são coisas diferentes; o projeto final exige os três vídeos revisados."
+        "Auditoria concluÃ­da e produÃ§Ã£o concluÃ­da sÃ£o coisas diferentes; o projeto final exige os trÃªs vÃ­deos revisados."
       ],
       [
-        "Qual evidência encerra esta prática?",
-        "a auditoria registra os três estados e relaciona evidências às decisões"
+        "Qual evidÃªncia encerra esta prÃ¡tica?",
+        "a auditoria registra os trÃªs estados e relaciona evidÃªncias Ã s decisÃµes"
       ]
     ],
-    "aviso_tempo": "Leitura: cerca de 15 minutos. Prática: 10 minutos ativos. Filas, produção de referências e correções exigem tempo adicional.",
-    "complemento": "Continuação de produção e documentação"
+    "aviso_tempo": "Leitura: cerca de 15 minutos. PrÃ¡tica: 10 minutos ativos. Filas, produÃ§Ã£o de referÃªncias e correÃ§Ãµes exigem tempo adicional.",
+    "complemento": "ContinuaÃ§Ã£o de produÃ§Ã£o e documentaÃ§Ã£o"
   }
 ]

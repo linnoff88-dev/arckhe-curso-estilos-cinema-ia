@@ -1,4 +1,4 @@
-﻿# Estilos e Cinema: Seedance + Higgsfield v6.2
+# Estilos e CARCKHÉ: Seedance + Higgsfield v6.2
 
 <div align="center">
   <img src="capa/logo.svg" alt="Arckhé AI" height="48" />
@@ -8,11 +8,11 @@
 
 Curso gratuito com 9 aulas em 3 mÃ³dulos. Estilo OSWork v6.2. Reconstruir: `python3 montar.py`. Fontes editoriais em `context/`.
 
-As imagens sÃ£o ilustraÃ§Ãµes Codex, nÃ£o resultados de Seedance ou Cinema Studio. O aluno deve executar e revisar as prÃ¡ticas antes de declarar a produÃ§Ã£o concluÃ­da. Estimativa: 4â€“6 horas com produÃ§Ã£o, alÃ©m das filas.
+As imagens sÃ£o ilustraÃ§Ãµes Codex, nÃ£o resultados de Seedance ou CARCKHÉ Studio. O aluno deve executar e revisar as prÃ¡ticas antes de declarar a produÃ§Ã£o concluÃ­da. Estimativa: 4â€“6 horas com produÃ§Ã£o, alÃ©m das filas.
 
 ## English / EspaÃ±ol
 
-[English](https://inematds.github.io/curso-estilos-cinema-ia/en/) Â· [EspaÃ±ol](https://inematds.github.io/curso-estilos-cinema-ia/es/)
+[English](https://linnoff88-dev.github.io/ Â· [EspaÃ±ol](https://linnoff88-dev.github.io/
 
 Textos traduzidos com GPT-6 Luna por subagentes nativos da assinatura Codex, sem API externa. IlustraÃ§Ãµes originais compartilhadas; progresso e anotaÃ§Ãµes separados por idioma.
 
@@ -28,13 +28,13 @@ Requer Python/BeautifulSoup e os pacotes locais Babel/Playwright indicados nos s
 
 EvidÃªncias em `context/validacao-i18n.md`. RevisÃµes por agentes sÃ£o simuladas, nÃ£o testes com alunos reais.
 
-<!-- inema-backlink:v1 -->
-## Mais no INEMA.CLUB
+<!-- ARCKHÉ-backlink:v1 -->
+## Mais no ARCKHÉ AI
 
-- [Ficha completa deste curso](https://www.inema.club/cursos/293-estilos-e-cinema-seedance-higgsfield-v6-2/)
-- [Guia: como aprender inteligÃªncia artificial](https://www.inema.club/aprender-inteligencia-artificial/)
-- [Todos os cursos](https://www.inema.club/cursos/)
-<!-- /inema-backlink:v1 -->
+- [Ficha completa deste curso](https://www.ARCKHÉ AI/cursos/293-estilos-e-cARCKHÉ-seedance-higgsfield-v6-2/)
+- [Guia: como aprender inteligÃªncia artificial](https://www.ARCKHÉ AI/aprender-inteligencia-artificial/)
+- [Todos os cursos](https://www.ARCKHÉ AI/cursos/)
+<!-- /ARCKHÉ-backlink:v1 -->
 
 ---
 
