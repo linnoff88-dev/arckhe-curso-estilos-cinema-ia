@@ -1,19 +1,19 @@
 {
-  "id": "estilos-cARCKHÉ-ia-v62",
-  "titulo": "Estilos e CARCKHÉ: Seedance + Higgsfield v6.2",
-  "titulo_html": "Uma histÃ³ria, <em>duas linguagens</em>",
-  "curso_curto": "Estilos e CARCKHÉ v6.2",
-  "kicker": "Estilos e CARCKHÉ v6.2 Â· 3 mÃ³dulos Â· 9 aulas",
-  "lead": "Organize referÃªncias, compare duas linguagens visuais e produza uma sequÃªncia curta com decisÃµes de cÃ¢mera verificÃ¡veis.",
+  "id": "estilos-cARCKH�-ia-v62",
+  "titulo": "Estilos e CARCKH�: Seedance + Higgsfield v6.2",
+  "titulo_html": "Uma história, <em>duas linguagens</em>",
+  "curso_curto": "Estilos e CARCKH� v6.2",
+  "kicker": "Estilos e CARCKH� v6.2 · 3 módulos · 9 aulas",
+  "lead": "Organize referências, compare duas linguagens visuais e produza uma sequência curta com decisões de câmera verificáveis.",
   "imagem_trilha": "assets/img/trilha.webp",
-  "alt_trilha": "Diretora de arte e anfitriÃ£o planejam um filme de lanterna na floresta.",
-  "rodape": "Estilos e CARCKHÉ v6.2 Â· ARCKHÉ AI PRO Â· <a href=\"landing.html\">sobre o curso</a>",
+  "alt_trilha": "Diretora de arte e anfitriêo planejam um filme de lanterna na floresta.",
+  "rodape": "Estilos e CARCKH� v6.2 · ARCKH� AI PRO · <a href=\"landing.html\">sobre o curso</a>",
   "landing": "landing.html",
   "glossario": true,
   "modulos": [
     {
-      "titulo": "MÃ³dulo 1 Â· ReferÃªncia, estilo e histÃ³ria",
-      "resumo": "Organize um painel com funÃ§Ãµes claras, defina duas linguagens visuais e escreva uma sequÃªncia curta.",
+      "titulo": "Módulo 1 · Referência, estilo e história",
+      "resumo": "Organize um painel com funções claras, defina duas linguagens visuais e escreva uma sequência curta.",
       "aulas": [
         1,
         2,
@@ -21,8 +21,8 @@
       ]
     },
     {
-      "titulo": "MÃ³dulo 2 Â· Duas versÃµes, uma comparaÃ§Ã£o",
-      "resumo": "Execute testes de estilo com registro e traduza decisÃµes de cÃ¢mera em critÃ©rios visuais.",
+      "titulo": "Módulo 2 · Duas versões, uma comparaçêo",
+      "resumo": "Execute testes de estilo com registro e traduza decisões de câmera em critérios visuais.",
       "aulas": [
         4,
         5,
@@ -30,8 +30,8 @@
       ]
     },
     {
-      "titulo": "MÃ³dulo 3 Â· Cena cARCKHÉtogrÃ¡fica e entrega",
-      "resumo": "Gere uma cena com transiÃ§Ã£o, escolha alternativas por critÃ©rio e revise o conjunto final.",
+      "titulo": "Módulo 3 · Cena cARCKH�tográfica e entrega",
+      "resumo": "Gere uma cena com transiçêo, escolha alternativas por critério e revise o conjunto final.",
       "aulas": [
         7,
         8,

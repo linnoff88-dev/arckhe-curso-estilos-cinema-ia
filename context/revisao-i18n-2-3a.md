@@ -1,9 +1,9 @@
-# RevisÃ£o simulada â€” Estilos e CARCKHÉ
+# RevisêÂ£o simulada ê¢â¬â Estilos e CARCKHê
 
-Escopo traduzido: 200 entradas EN/ES de `source-2.json` e 100 entradas EN/ES de `source-3a.json`. O conteÃºdo abrange a continuaÃ§Ã£o da aula 4, as aulas 5â€“8 e a abertura da aula 9.
+Escopo traduzido: 200 entradas EN/ES de `source-2.json` e 100 entradas EN/ES de `source-3a.json`. O conteêÂºdo abrange a continuaêÂ§êÂ£o da aula 4, as aulas 5ê¢â¬â8 e a abertura da aula 9.
 
-Na leitura simulada como adulto iniciante, as prÃ¡ticas distinguem o que deve permanecer igual numa comparaÃ§Ã£o, como planejar enquadramento e movimento, e como avaliar uma transiÃ§Ã£o entre planos. O texto explica que gerar planos separadamente e montÃ¡-los depois Ã© um mÃ©todo vÃ¡lido, mas nÃ£o comprova uma transiÃ§Ã£o nativa. TambÃ©m deixa claro que consultar compatibilidade nÃ£o equivale a comparar a qualidade dos resultados e que uma tentativa limitada nÃ£o cria um ranking definitivo de ferramentas.
+Na leitura simulada como adulto iniciante, as prêÂ¡ticas distinguem o que deve permanecer igual numa comparaêÂ§êÂ£o, como planejar enquadramento e movimento, e como avaliar uma transiêÂ§êÂ£o entre planos. O texto explica que gerar planos separadamente e montêÂ¡-los depois êÂ© um mêÂ©todo vêÂ¡lido, mas nêÂ£o comprova uma transiêÂ§êÂ£o nativa. TambêÂ©m deixa claro que consultar compatibilidade nêÂ£o equivale a comparar a qualidade dos resultados e que uma tentativa limitada nêÂ£o cria um ranking definitivo de ferramentas.
 
-A disponibilidade de modos, controles e resoluÃ§Ãµes continua condicionada Ã  versÃ£o e Ã  conta. O relatÃ³rio preserva a orientaÃ§Ã£o para registrar custo, configuraÃ§Ãµes e mÃ©todo real; as ilustraÃ§Ãµes nÃ£o sÃ£o apresentadas como vÃ­deos gerados. Revisei as alternativas dos quizzes para aproximar seus comprimentos sem mudar a resposta correta.
+A disponibilidade de modos, controles e resoluêÂ§êÂµes continua condicionada êÂ  versêÂ£o e êÂ  conta. O relatêÂ³rio preserva a orientaêÂ§êÂ£o para registrar custo, configuraêÂ§êÂµes e mêÂ©todo real; as ilustraêÂ§êÂµes nêÂ£o sêÂ£o apresentadas como vêÂ­deos gerados. Revisei as alternativas dos quizzes para aproximar seus comprimentos sem mudar a resposta correta.
 
-Esta Ã© uma revisÃ£o textual simulada, nÃ£o um teste com alunos. Os exemplos de vÃ­deo nÃ£o foram gerados para este curso.
+Esta êÂ© uma revisêÂ£o textual simulada, nêÂ£o um teste com alunos. Os exemplos de vêÂ­deo nêÂ£o foram gerados para este curso.
